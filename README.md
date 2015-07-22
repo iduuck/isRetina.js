@@ -19,24 +19,12 @@ bower install --save isRetina.js
 If you are using the snippet with bower you should be sure that bower is already installed on your device and then run this line of script.
 
 ```
-npm install --save isRetina.js
+npm install --save isretina.js
 ```
 
 ### Usage
 
-If you already [installed](#installation) isRetina.js, be sure to use on of the following methods to include the library in your project (if you are using bower + browserify, please use the `debowerify` transform for browserify):
-
-#### Using [Common.js](https://nodejs.org/docs/latest/api/modules.html)
-
-```
-var isRetina = require('isRetina');
-```
-
-#### Using [ECMAScript 6 Modules](http://www.2ality.com/2014/09/es6-modules-final.html)
-
-```
-import isRetina from 'isRetina';
-```
+If you already [installed](#installation) isRetina.js, be sure to include the library in your project using Common.js or ECMAScript 6 Modules (if you are using bower + browserify, please use the `debowerify` transform for browserify).
 
 
 ### Contributing

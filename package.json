@@ -1,5 +1,5 @@
 {
-  "name": "isRetina.js",
+  "name": "isretina.js",
   "version": "0.0.1",
   "description": "very little snippet for bower and npm to check if the client is using a retina display",
   "main": "isRetina.min.js",
