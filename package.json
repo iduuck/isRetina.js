@@ -1,0 +1,36 @@
+{
+  "name": "isRetina.js",
+  "version": "0.0.1",
+  "description": "very little snippet for bower and npm to check if the client is using a retina display",
+  "main": "isRetina.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iDuuck/isRetina.js"
+  },
+  "keywords": [
+    "retina",
+    "client-side",
+    "client",
+    "detection",
+    "function",
+    "little",
+    "snippet"
+  ],
+  "author": "Dominik Schmidt <nick@kreativgebiet.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iDuuck/isRetina.js/issues"
+  },
+  "homepage": "https://github.com/iDuuck/isRetina.js",
+  "devDependencies": {
+    "babel": "^5.8.3",
+    "gulp": "^3.9.0",
+    "gulp-babel": "^5.1.0",
+    "gulp-jshint": "^1.11.2",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^1.2.0"
+  }
+}

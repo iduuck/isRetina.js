@@ -1,0 +1,32 @@
+{
+  "name": "isRetina.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/iDuuck/isRetina.js",
+  "authors": [
+    { "name": "Dominik Schmidt", "email": "nick@kreativgebiet.com", "homepage": "http://kreativgebiet.com/" }
+  ],
+  "description": "very little snippet for bower and npm to check if the client is using a retina display",
+  "main": "isRetina.min.js",
+  "moduleType": [
+    "node",
+    "es6"
+  ],
+  "keywords": [
+    "retina",
+    "client-side",
+    "client",
+    "little",
+    "snippet",
+    "detection",
+    "require",
+    "es6"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
